@@ -400,3 +400,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Minhook-odin/MinHook.x64.dll
+Minhook-odin/minhook/MinHook.x86.lib
+Minhook-odin/minhook/MinHook.x64.lib
